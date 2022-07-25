@@ -3,6 +3,10 @@
     "node_modules": true,
     "src/**/*.spec.ts": true,
     "test": true,
+    ".gitignore": true,
+    "package-lock.json": true,
+    "README.md": true,
+    "dist": true,
     ".vscode": true
   }
 }
